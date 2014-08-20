@@ -11,3 +11,11 @@ C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\bin\debug\SocketIOClient.
 C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\bin\debug\SocketIOClient.dll.lastcodeanalysissucceeded
 C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\SocketIO\obj\Debug\SocketIOClient.dll
 C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\SocketIO\obj\Debug\SocketIOClient.pdb
+C:\Code\DemoButler\bin\debug\SocketIOClient.xml
+C:\Code\DemoButler\bin\debug\SocketIOClient.dll
+C:\Code\DemoButler\bin\debug\SocketIOClient.pdb
+C:\Code\DemoButler\bin\debug\SocketIOClient.dll.CodeAnalysisLog.xml
+C:\Code\DemoButler\bin\debug\SocketIOClient.dll.lastcodeanalysissucceeded
+C:\Code\DemoButler\SocketIO\obj\Debug\SocketIOClient.csprojResolveAssemblyReference.cache
+C:\Code\DemoButler\SocketIO\obj\Debug\SocketIOClient.dll
+C:\Code\DemoButler\SocketIO\obj\Debug\SocketIOClient.pdb

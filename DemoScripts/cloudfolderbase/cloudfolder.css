@@ -1,0 +1,96 @@
+html { 
+	background: url(https://valeryjacobs.blob.core.windows.net/content/above-the-clouds.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Segoe UI', Tahoma, Arial, Helvetica, Sans-Serif;
+}
+
+#container {
+  width: 320px;
+  height: 240px;
+  background-color: White;
+  position:absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -150px;
+  margin-top: -150px;
+  -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+	opacity:0.8;
+ filter:alpha(opacity=80); 
+ text-align:left
+}
+
+
+
+div.trademark{
+    display:block;
+    font-size:12px;
+
+    /*set the div in the bottom right corner*/
+    position:absolute;
+    bottom:0;
+    right:0;
+    width:210px;
+    
+  }
+
+#form
+{
+   margin:auto;
+   margin-top:10px;
+}
+
+.classname {
+	-moz-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #378de5 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#378de5');
+	background-color:#79bbff;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	color:#ffffff;
+	
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #528ecc;
+	width:200px;
+}
+
+div.padded {  
+     padding-top: 10px;  
+      padding-right: 0px;  
+      padding-bottom: 0.25in;  
+      padding-left: 5em;  
+    }  
+
+
+.small{
+font-size:18px;
+}
+
+.large{
+font-size:28px;
+}
+
+.classname:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #378de5), color-stop(1, #79bbff) );
+	background:-moz-linear-gradient( center top, #378de5 5%, #79bbff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#378de5', endColorstr='#79bbff');
+	background-color:#378de5;
+}
+
+.classname:active {
+	position:relative;
+	top:1px;
+}
+

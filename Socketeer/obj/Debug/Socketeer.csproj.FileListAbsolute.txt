@@ -10,3 +10,13 @@ C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\Socketeer\bin\Debug\WebSo
 C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\Socketeer\obj\Debug\Socketeer.csprojResolveAssemblyReference.cache
 C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\Socketeer\obj\Debug\Socketeer.exe
 C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\Socketeer\obj\Debug\Socketeer.pdb
+C:\Code\DemoButler\Socketeer\bin\Debug\Socketeer.exe.config
+C:\Code\DemoButler\Socketeer\bin\Debug\Socketeer.exe
+C:\Code\DemoButler\Socketeer\bin\Debug\Socketeer.pdb
+C:\Code\DemoButler\Socketeer\bin\Debug\Newtonsoft.Json.dll
+C:\Code\DemoButler\Socketeer\bin\Debug\Newtonsoft.Json.xml
+C:\Code\DemoButler\Socketeer\bin\Debug\SocketIOClient.pdb
+C:\Code\DemoButler\Socketeer\bin\Debug\WebSocket4Net.pdb
+C:\Code\DemoButler\Socketeer\obj\Debug\Socketeer.csprojResolveAssemblyReference.cache
+C:\Code\DemoButler\Socketeer\obj\Debug\Socketeer.exe
+C:\Code\DemoButler\Socketeer\obj\Debug\Socketeer.pdb

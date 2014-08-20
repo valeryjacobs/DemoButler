@@ -152,7 +152,7 @@ namespace DemoButler
 
         private void Initialize()
         {
-            string scriptfile = @"c:\DemoScripts\demo.script";
+            string scriptfile = @"c:\Code\DemoButler\DemoScripts\demo.script";
           //  WebClient webClient = new WebClient();
           //  string result = webClient.DownloadString("https://valeryjacobs.blob.core.windows.net/demoscripts/demo.script");
             _bf = Newtonsoft.Json.JsonConvert.DeserializeObject<ButlerFactory>(File.ReadAllText(scriptfile));

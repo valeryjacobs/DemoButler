@@ -1,0 +1,59 @@
+<html>
+<head>
+  <link rel="stylesheet" href="https://valeryjacobs.blob.core.windows.net/content/cloudfolder.css">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>CloudFolder</title>
+  
+  <script type='text/javascript' src='http://code.jquery.com/jquery-1.4.4.min.js'></script>
+  <style type='text/css'>
+    input[type=file] {
+    display:block;
+    height:0;
+    width:0;
+}
+  </style>
+  
+
+
+<script type='text/javascript'>//<![CDATA[ 
+$(function(){
+$('input[type=button]').click(function() {
+    $('input[type=file]').trigger('click');
+});
+
+$('input[type=file]').change(function() {
+    var vals = $(this).val(),
+        val = vals.length ? vals.split('\\').pop() : '';
+    
+    $('input[type=text]').val(val);
+});
+});//]]>  
+
+</script>
+</head>
+<body>
+
+
+
+<div id="container">
+  <div id="form" class="padded"><!--<a href="#" class="classname">Upload</a>-->
+ 
+  
+    <form action="/upload" enctype="multipart/form-data" method="post">
+      <input type="button" class="classname large" value="Select files" >
+      <!--<input visible="hidden" type="text" name="folder"><br>-->
+      <input type="file" name="upload" class="classname large" multiple="multiple"><br>
+      <input type="submit" class="classname large" value="Upload">
+     </form>
+
+  </div>
+</div>
+
+ <div class="trademark">
+CloudCompanion&trade; 2013. Powered by <img alt="-" src="https://valeryjacobs.blob.core.windows.net/content/windowsazure_logo.png" width="200px"></div>
+  
+
+
+
+</body>
+</html>
