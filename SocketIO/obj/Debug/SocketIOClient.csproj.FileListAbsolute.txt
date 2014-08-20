@@ -1,0 +1,13 @@
+C:\Users\Valery\Downloads\socketio4net\bin\debug\SocketIOClient.xml
+C:\Users\Valery\Downloads\socketio4net\bin\debug\SocketIOClient.dll
+C:\Users\Valery\Downloads\socketio4net\bin\debug\SocketIOClient.pdb
+C:\Users\Valery\Downloads\socketio4net\bin\debug\SocketIOClient.dll.CodeAnalysisLog.xml
+C:\Users\Valery\Downloads\socketio4net\bin\debug\SocketIOClient.dll.lastcodeanalysissucceeded
+C:\Users\Valery\Downloads\socketio4net\SocketIO\obj\Debug\SocketIOClient.pdb
+C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\bin\debug\SocketIOClient.xml
+C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\bin\debug\SocketIOClient.dll
+C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\bin\debug\SocketIOClient.pdb
+C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\bin\debug\SocketIOClient.dll.CodeAnalysisLog.xml
+C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\bin\debug\SocketIOClient.dll.lastcodeanalysissucceeded
+C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\SocketIO\obj\Debug\SocketIOClient.dll
+C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\SocketIO\obj\Debug\SocketIOClient.pdb

@@ -1,0 +1,8 @@
+﻿<Window  x:Class="DemoButlerAgent.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DemoButler agent" Height="120" Width="225" Icon="Link.ico">
+    <Grid >
+        <Button x:Name="reconnect" Click="reconnect_Click_1">Resend action list</Button>
+    </Grid>
+</Window>

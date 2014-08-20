@@ -1,0 +1,6 @@
+C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\KeyCollector\bin\Debug\KeyCollector.exe.config
+C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\KeyCollector\bin\Debug\KeyCollector.exe
+C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\KeyCollector\bin\Debug\KeyCollector.pdb
+C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\KeyCollector\obj\Debug\KeyCollector.csprojResolveAssemblyReference.cache
+C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\KeyCollector\obj\Debug\KeyCollector.exe
+C:\Users\Valery\Dropbox\Projects\Atmosphere\DemoButler\KeyCollector\obj\Debug\KeyCollector.pdb
